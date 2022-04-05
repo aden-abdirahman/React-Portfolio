@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d123e28f.css",
+    "main.js": "/static/js/main.c21a15e5.js",
+    "static/media/jamy.png": "/static/media/jamy.516240d0bd130c49377e.png",
+    "static/media/weather.png": "/static/media/weather.eaad400e158dbf51b568.png",
+    "static/media/dailyPlanner.png": "/static/media/dailyPlanner.76923c6be9c723c3e586.png",
+    "static/media/teamProfile.png": "/static/media/teamProfile.118ee38ec3121b87ba10.png",
+    "static/media/techblog.png": "/static/media/techblog.e2f6290e034785982907.png",
+    "static/media/notes.png": "/static/media/notes.4a1b56827385463ee575.png",
+    "static/media/logo.png": "/static/media/logo.4ca6d0593887c8862357.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/sql.png": "/static/media/sql.934b5a16397ffe001902.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.d123e28f.css.map": "/static/css/main.d123e28f.css.map",
+    "main.c21a15e5.js.map": "/static/js/main.c21a15e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d123e28f.css",
+    "static/js/main.c21a15e5.js"
+  ]
+}
