@@ -12,7 +12,7 @@ import SQL from '../assets/sql.png';
 
 const Skills = () => {
   return (
-    <section name='skills' className='w-full h-screen bg-[#0b1a31] text-gray-300'>
+    <section name='skills' className='w-full h-screen bg-[#0b1a31] text-gray-300 pt-4'>
         {/* skills container */}
         <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
             <div>

@@ -4,13 +4,20 @@ const About = () => {
   return (
     <section name='about' className='w-full h-screen bg-[#0b1a31] text-gray-300'>
         <div className='flex flex-col justify-center items-center w-full h-full'>
-            <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
-                <div className='sm:text-right pb-8 pl-4'>
+            <div className='max-w-[1000px] w-full gap-8'>
+                <div className='sm:text-center pb-8 pl-4'>
                     <p className='text-4xl font-bold inline border-b-4 border-orange-500'>About</p>
                 </div>
-                <div></div>
+                <div>
+                    <p className='pl-4 pb-4'>  I'm a passionate software developer with experience using both
+                frontend and backend libraries, frameworks, and API's. I'm interested in
+                both mobile and web development. I'm dedicated to increasing my
+                knowledgebase and increasing the amount of tech tools in my
+                repertoire. Follow along in my journey to become a better
+                developer!</p>
                 </div>
-                <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
+                </div>
+                <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4 pt-4'>
                     <div className='sm:text-right text-4xl font-bold'>
                         <p>Education</p>
                     </div>

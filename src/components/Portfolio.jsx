@@ -20,6 +20,7 @@ const Portfolio = () => {
                 <div style={{backgroundImage: `url(${jamy})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto img-div'>
 
                     <div className='opacity-0 group-hover:opacity-100'>
+                        <h2 className='font-bold text-white'>JAMY Games - </h2>
                         <span className='text-2xl font-bold text-white tracking-wider'>
                         Full Stack App
                         </span>
@@ -38,6 +39,7 @@ const Portfolio = () => {
                 <div style={{backgroundImage: `url(${notes})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto img-div'>
 
                     <div className='opacity-0 group-hover:opacity-100'>
+                    <h2 className='font-bold text-white'>Note Taker - </h2>
                         <span className='text-2xl font-bold text-white tracking-wider'>
                         Full Stack App
                         </span>
@@ -56,6 +58,7 @@ const Portfolio = () => {
                 <div style={{backgroundImage: `url(${techblog})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto img-div'>
 
                     <div className='opacity-0 group-hover:opacity-100'>
+                    <h2 className='font-bold text-white'>Tech Blog - </h2>
                         <span className='text-2xl font-bold text-white tracking-wider'>
                         Full Stack App
                         </span>
@@ -74,6 +77,7 @@ const Portfolio = () => {
                 <div style={{backgroundImage: `url(${teamProfile})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto img-div'>
 
                     <div className='opacity-0 group-hover:opacity-100'>
+                    <h2 className='font-bold text-white'>Team Profile Builder - </h2>
                         <span className='text-2xl font-bold text-white tracking-wider'>
                         Full Stack App
                         </span>
@@ -92,6 +96,7 @@ const Portfolio = () => {
                 <div style={{backgroundImage: `url(${daily})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto img-div'>
 
                     <div className='opacity-0 group-hover:opacity-100'>
+                    <h2 className='font-bold text-white'>Daily Planner - </h2>
                         <span className='text-2xl font-bold text-white tracking-wider'>
                         Front End Web-App
                         </span>
@@ -110,6 +115,7 @@ const Portfolio = () => {
                 <div style={{backgroundImage: `url(${weather})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto img-div'>
 
                     <div className='opacity-0 group-hover:opacity-100'>
+                    <h2 className='font-bold text-white'>Weather App - </h2>
                         <span className='text-2xl font-bold text-white tracking-wider'>
                         Front End Web-App
                         </span>
